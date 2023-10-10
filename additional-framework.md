@@ -1,3 +1,7 @@
+# Architectural Decisions Rationale
+
+## Scenario 3: Food Delivery App
+
 ### Decision Title: Additional Frameworks 
 
 **Context:**
